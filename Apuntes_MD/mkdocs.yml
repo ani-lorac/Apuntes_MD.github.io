@@ -1,0 +1,16 @@
+
+site_name: Mis apuntes
+site_url: https://github.com/ani-lorac/Apuntes_MD.git 
+nav:
+- Home: index.md
+- Proyecto: Apuntes_MD.md
+
+
+
+theme: material
+
+
+
+
+
+
